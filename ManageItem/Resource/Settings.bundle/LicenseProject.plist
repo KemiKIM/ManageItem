@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PreferenceSpecifiers</key>
+	<array>
+		<dict>
+			<key>Title</key>
+			<string>Licenses</string>
+			<key>Type</key>
+			<string>PSGroupSpecifier</string>
+		</dict>
+		<dict>
+			<key>File</key>
+			<string>LicenseProject/abseil-cpp-binary</string>
+			<key>Title</key>
+			<string>abseil (1.2024011602.0)</string>
+			<key>Type</key>
+			<string>PSChildPaneSpecifier</string>
+		</dict>
+		<dict>
+			<key>File</key>
+			<string>LicenseProject/app-check</string>
+			<key>Title</key>
+			<string>AppCheck (11.0.1)</string>
+			<key>Type</key>
+			<string>PSChildPaneSpecifier</string>
+		</dict>
+		<dict>
+			<key>File</key>
+			<string>LicenseProject/firebase-ios-sdk</string>
+			<key>Title</key>
+			<string>Firebase (11.1.0)</string>
+			<key>Type</key>
+			<string>PSChildPaneSpecifier</string>
+		</dict>
+		<dict>
+			<key>File</key>
+			<string>LicenseProject/GoogleAppMeasurement</string>
+			<key>Title</key>
+			<string>GoogleAppMeasurement (11.1.0)</string>
+			<key>Type</key>
+			<string>PSChildPaneSpecifier</string>
+		</dict>
+		<dict>
+			<key>File</key>
+			<string>LicenseProject/GoogleDataTransport</string>
+			<key>Title</key>
+			<string>GoogleDataTransport (10.1.0)</string>
+			<key>Type</key>
+			<string>PSChildPaneSpecifier</string>
+		</dict>
+		<dict>
+			<key>File</key>
+			<string>LicenseProject/GoogleUtilities</string>
+			<key>Title</key>
+			<string>GoogleUtilities (8.0.2)</string>
+			<key>Type</key>
+			<string>PSChildPaneSpecifier</string>
+		</dict>
+		<dict>
+			<key>File</key>
+			<string>LicenseProject/grpc-binary</string>
+			<key>Title</key>
+			<string>gRPC (1.65.1)</string>
+			<key>Type</key>
+			<string>PSChildPaneSpecifier</string>
+		</dict>
+		<dict>
+			<key>File</key>
+			<string>LicenseProject/gtm-session-fetcher</string>
+			<key>Title</key>
+			<string>gtm-session-fetcher (3.5.0)</string>
+			<key>Type</key>
+			<string>PSChildPaneSpecifier</string>
+		</dict>
+		<dict>
+			<key>File</key>
+			<string>LicenseProject/interop-ios-for-google-sdks</string>
+			<key>Title</key>
+			<string>InteropForGoogle (100.0.0)</string>
+			<key>Type</key>
+			<string>PSChildPaneSpecifier</string>
+		</dict>
+		<dict>
+			<key>File</key>
+			<string>LicenseProject/leveldb</string>
+			<key>Title</key>
+			<string>leveldb (1.22.5)</string>
+			<key>Type</key>
+			<string>PSChildPaneSpecifier</string>
+		</dict>
+		<dict>
+			<key>File</key>
+			<string>LicenseProject/lottie-ios</string>
+			<key>Title</key>
+			<string>Lottie (4.5.0)</string>
+			<key>Type</key>
+			<string>PSChildPaneSpecifier</string>
+		</dict>
+		<dict>
+			<key>File</key>
+			<string>LicenseProject/nanopb</string>
+			<key>Title</key>
+			<string>nanopb (2.30910.0)</string>
+			<key>Type</key>
+			<string>PSChildPaneSpecifier</string>
+		</dict>
+		<dict>
+			<key>File</key>
+			<string>LicenseProject/promises</string>
+			<key>Title</key>
+			<string>Promises (2.4.0)</string>
+			<key>Type</key>
+			<string>PSChildPaneSpecifier</string>
+		</dict>
+		<dict>
+			<key>File</key>
+			<string>LicenseProject/SnapKit</string>
+			<key>Title</key>
+			<string>SnapKit (5.7.1)</string>
+			<key>Type</key>
+			<string>PSChildPaneSpecifier</string>
+		</dict>
+		<dict>
+			<key>File</key>
+			<string>LicenseProject/swift-protobuf</string>
+			<key>Title</key>
+			<string>SwiftProtobuf (1.28.1)</string>
+			<key>Type</key>
+			<string>PSChildPaneSpecifier</string>
+		</dict>
+		<dict>
+			<key>File</key>
+			<string>LicenseProject/SwiftyBeaver</string>
+			<key>Title</key>
+			<string>SwiftyBeaver (2.1.1)</string>
+			<key>Type</key>
+			<string>PSChildPaneSpecifier</string>
+		</dict>
+		<dict>
+			<key>File</key>
+			<string>LicenseProject/Then</string>
+			<key>Title</key>
+			<string>Then (3.0.0)</string>
+			<key>Type</key>
+			<string>PSChildPaneSpecifier</string>
+		</dict>
+		<dict>
+			<key>File</key>
+			<string>LicenseProject/Toast-Swift</string>
+			<key>Title</key>
+			<string>Toast (5.1.1)</string>
+			<key>Type</key>
+			<string>PSChildPaneSpecifier</string>
+		</dict>
+		<dict>
+			<key>File</key>
+			<string>LicenseProject/RefreshIcon</string>
+			<key>Title</key>
+			<string>RefreshIcon (CopyRight)</string>
+			<key>Type</key>
+			<string>PSChildPaneSpecifier</string>
+		</dict>
+	</array>
+</dict>
+</plist>
