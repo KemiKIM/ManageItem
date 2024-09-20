@@ -7,7 +7,15 @@
 
 import UIKit
 
-extension UILabel { }
+extension UILabel {
+    // DS: Default Setting
+
+    func addVC_DS(text: String) {
+        self.text = text
+        self.textColor = UIColor.black
+    }
+    
+}
 
 class PaddedLabel: UILabel {
 

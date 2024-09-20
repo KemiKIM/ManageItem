@@ -7,6 +7,9 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		DB7714D52C9CF83D0065EC7E /* AddVC+Layout.swift in Sources */ = {isa = PBXBuildFile; fileRef = DB7714D42C9CF83D0065EC7E /* AddVC+Layout.swift */; };
+		DB7714D72C9CF96B0065EC7E /* UITextField+.swift in Sources */ = {isa = PBXBuildFile; fileRef = DB7714D62C9CF96B0065EC7E /* UITextField+.swift */; };
+		DB7714D92C9CFA2B0065EC7E /* UIStackView+.swift in Sources */ = {isa = PBXBuildFile; fileRef = DB7714D82C9CFA2B0065EC7E /* UIStackView+.swift */; };
 		DBBB3C332C884EB2007D94E5 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = DBBB3C322C884EB2007D94E5 /* AppDelegate.swift */; };
 		DBBB3C352C884EB2007D94E5 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = DBBB3C342C884EB2007D94E5 /* SceneDelegate.swift */; };
 		DBBB3C3A2C884EB2007D94E5 /* Base in Resources */ = {isa = PBXBuildFile; fileRef = DBBB3C392C884EB2007D94E5 /* Base */; };
@@ -45,6 +48,9 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		DB7714D42C9CF83D0065EC7E /* AddVC+Layout.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "AddVC+Layout.swift"; sourceTree = "<group>"; };
+		DB7714D62C9CF96B0065EC7E /* UITextField+.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "UITextField+.swift"; sourceTree = "<group>"; };
+		DB7714D82C9CFA2B0065EC7E /* UIStackView+.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "UIStackView+.swift"; sourceTree = "<group>"; };
 		DBBB3C2F2C884EB2007D94E5 /* ManageItem.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ManageItem.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		DBBB3C322C884EB2007D94E5 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		DBBB3C342C884EB2007D94E5 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -172,6 +178,8 @@
 				DBBB3C662C885118007D94E5 /* UILabel+.swift */,
 				DBBB3C672C885118007D94E5 /* UISearchBar+.swift */,
 				DBBB3C682C885118007D94E5 /* UIViewController+.swift */,
+				DB7714D62C9CF96B0065EC7E /* UITextField+.swift */,
+				DB7714D82C9CFA2B0065EC7E /* UIStackView+.swift */,
 			);
 			path = Helper;
 			sourceTree = "<group>";
@@ -218,6 +226,7 @@
 			isa = PBXGroup;
 			children = (
 				DBBB3C6A2C885118007D94E5 /* AddVC.swift */,
+				DB7714D42C9CF83D0065EC7E /* AddVC+Layout.swift */,
 			);
 			path = Add;
 			sourceTree = "<group>";
@@ -334,11 +343,13 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				DB7714D52C9CF83D0065EC7E /* AddVC+Layout.swift in Sources */,
 				DBBB3C7B2C885118007D94E5 /* SwiftyBeaver+.swift in Sources */,
 				DBBB3C892C885118007D94E5 /* SettingVC.swift in Sources */,
 				DBBB3C802C885118007D94E5 /* UIViewController+.swift in Sources */,
 				DBBB3C7E2C885118007D94E5 /* UILabel+.swift in Sources */,
 				DBBB3CBF2C8AD47E007D94E5 /* RDManager+Write.swift in Sources */,
+				DB7714D72C9CF96B0065EC7E /* UITextField+.swift in Sources */,
 				DBBB3C8C2C893186007D94E5 /* ItemModel.swift in Sources */,
 				DBBB3C7C2C885118007D94E5 /* UIAlert+.swift in Sources */,
 				DBBB3C842C885118007D94E5 /* MainVC+SearchBar.swift in Sources */,
@@ -355,6 +366,7 @@
 				DBBB3C7A2C885118007D94E5 /* LottieManager.swift in Sources */,
 				DBBB3C772C885118007D94E5 /* RDManager.swift in Sources */,
 				DBBB3C8A2C885118007D94E5 /* SettingVC+Layout.swift in Sources */,
+				DB7714D92C9CFA2B0065EC7E /* UIStackView+.swift in Sources */,
 				DBBB3C7D2C885118007D94E5 /* UIColor+.swift in Sources */,
 				DBBB3C852C885118007D94E5 /* MainVC+TableView.swift in Sources */,
 			);
